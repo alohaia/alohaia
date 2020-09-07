@@ -1,17 +1,16 @@
-<div align="center">
-<img alt="golang" src="https://img.icons8.com/color/50/000000/golang.png"/>
-</div>
-
-<br/>
+# hello there
 
 ![glepnir's github stats](https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight)
 
 **Personal Stuffs:**
+- 
 
 
 <!--
 
-
+<div align="center">
+<img alt="golang" src="https://img.icons8.com/color/50/000000/golang.png"/>
+</div>
 
 <p align="center">
 <b> Gopher </b>
