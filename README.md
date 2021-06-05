@@ -1,6 +1,6 @@
 # Aloha!
 
-![glepnir's github stats](https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight)
+![alohaia's github stats](https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight)
 
 **Personal Stuffs:**
 - 
