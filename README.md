@@ -1,13 +1,14 @@
-<h1 style="text-align:center"><a href='https://zh.wikipedia.org/wiki/Aloha'>ALOHA!</a></p>
+<h1 align="center"><a href='https://zh.wikipedia.org/wiki/Aloha'>ALOHA!</a></p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight">
+</div>
 
 ## Personal Stuffs
 
 **Who am I?**
-
-<div style="float:right">
-<img data-src="https://aloha.org.cn/images/aloha.gif" width="200" title="" alt="" src="https://aloha.org.cn/images/aloha.gif" data-loaded="true">
-</div>
-- CMU ~~(Carnegie Mellon University)~~ 在读 *医学牲*
+    
+- CMU <s>(Carnegie Mellon University)</s> 在读 *医学牲*
 - 编程爱好者、（Neo）Vimmer
 
 **What am I doing?**
@@ -19,14 +20,9 @@
 
 **What do I wanna do?**
 
-<div style="float:right">
-<img data-src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight" width="200" title="" alt="" src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight" data-loaded="true">
-</div>
-
-
-- <a href="{% post_path 自制伪终端 %}">自制伪终端</a> - Lua 配置，输入法支持
+- [自制伪终端](https://aloha.org.cn/2021/04/12/%E8%87%AA%E5%88%B6%E4%BC%AA%E7%BB%88%E7%AB%AF/) - Lua 配置，输入法支持
 - 我爱数学 - 数学建模与应用、统计分析
-- 计算机图形学 - <a href="{% post_path OpenGL %}">OpenGL</a>、Vulkan
+- 计算机图形学 - [OpenGL](https://aloha.org.cn/2021/04/17/OpenGL/)、Vulkan
 
 **How to contact me?**
 
