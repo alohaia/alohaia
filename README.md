@@ -1,47 +1,37 @@
-# Aloha!
+<h1 style="text-align:center"><a href='https://zh.wikipedia.org/wiki/Aloha'>ALOHA!</a></p>
 
-![alohaia's github stats](https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight)
+## Personal Stuffs
 
-**Personal Stuffs:**
-- 
+**Who am I?**
 
+<div style="float:right">
+<img data-src="https://aloha.org.cn/images/aloha.gif" width="200" title="" alt="" src="https://aloha.org.cn/images/aloha.gif" data-loaded="true">
+</div>
+- CMU ~~(Carnegie Mellon University)~~ 在读 *医学牲*
+- 编程爱好者、（Neo）Vimmer
 
-<!--
+**What am I doing?**
 
-<div align="center">
-<img alt="golang" src="https://img.icons8.com/color/50/000000/golang.png"/>
+- 我的博客（医学、计算机……）
+    - 博客地址：https://aloha.org.cn
+    - NeoVim 插件：https://github.com/alohaia/vim-hexowiki
+- 我的 NeoVim 配置：https://github.com/alohaia/nvimcfg
+
+**What do I wanna do?**
+
+<div style="float:right">
+<img data-src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight" width="200" title="" alt="" src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight" data-loaded="true">
 </div>
 
-<p align="center">
-<b> Gopher </b>
-•
-<b> Vimer </b>
-•
-<b><a href="mailto:glepnir@gopherhub.org"> Email me</a></b>
-•
-<b><a href="https://blog.gopherhub.org">My Blog</a></b>
-•
-<b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>
-</p>
 
-- Now currently focused on [DataStructures And Algorithms in Go](https://github.com/glepnir/DataStructuresAndAlgorithms-Go)
-- Author of these vim plugins [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) [Dashboard-nvim](https://github.com/hardcoreplayers/dashboard-nvim) [Spaceline.vim](https://github.com/hardcoreplayers/spaceline.vim) [NviMagit](https://github.com/hardcoreplayers/nvimagit) [OceanicMaterial](https://github.com/hardcoreplayers/oceanic-material)..
-- [Jarvim](https://github.com/glepnir/jarvim) a cli tools to generate a module vim configruation like a **VIM PRO**
-- ❤️ If my projects have helped you, please consider [sponsoring me](https://www.paypal.me/bobbyhub) ~~ Thank you! ❤️
+- <a href="{% post_path 自制伪终端 %}">自制伪终端</a> - Lua 配置，输入法支持
+- 我爱数学 - 数学建模与应用、统计分析
+- 计算机图形学 - <a href="{% post_path OpenGL %}">OpenGL</a>、Vulkan
 
+**How to contact me?**
 
-
-
-**alohaia/alohaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- E-mail
+    - Outlook: [liu.qihuan@outlook.com](mailto:liu.qihuan@outlook.com)
+    - Gmail: [ericksonorlandop11811@gmail.com](mailto:ericksonorlandop11811@gmail.com)
+- BiliBili [@alohaia](https://space.bilibili.com/437854288)
+- Github [@alohaia](https://github.com/alohaia)
