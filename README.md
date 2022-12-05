@@ -1,7 +1,7 @@
 <h1 align="center"><a href='https://zh.wikipedia.org/wiki/Aloha'>ALOHA!</a></p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&count_private=true&hide_border=true&locale=cn&bg_color=2D333B&text_color=CDD9E5">
 </div>
 
 ## Personal Stuffs
