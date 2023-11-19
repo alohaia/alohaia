@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alohaia&show_icons=true&count_private=true&hide_border=true&locale=cn&bg_color=2D333B&text_color=CDD9E5">
 </div>
 
-## Personal Stuffs
+## Personal Info
 
 **Who am I?**
     
