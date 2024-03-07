@@ -8,7 +8,7 @@
 
 **Who am I?**
     
-- CMU <s>(Carnegie Mellon University)</s> 在读 *医学牲*
+- CMU 在读 *医学牲*
 - 编程爱好者、（Neo）Vimmer
 
 **What am I doing?**
