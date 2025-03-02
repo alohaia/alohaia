@@ -14,7 +14,7 @@
 **What am I doing?**
 
 - 我的博客（医学、计算机……）
-    - 博客地址：https://daisilia.com
+    - 博客地址：https://aya.org.cn
     - 博客主题：https://github.com/alohaia/hugo-theme-daisilia
     - 给博客写的 NeoVim 插件：https://github.com/alohaia/vim-hexowiki
 - 我的 NeoVim 配置：https://github.com/alohaia/nvimcfg
